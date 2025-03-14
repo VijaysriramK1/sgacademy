@@ -1,1 +1,1 @@
-# sgacademy
+# sgacademy-web
