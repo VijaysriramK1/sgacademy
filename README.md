@@ -1,4 +1,4 @@
-# sgacademy-web
+# Steps for usage:
 
 Step 1: composer install (or) composer update
 Step 2: composer require filament/filament
